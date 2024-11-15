@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mupeh
-- 👀 I’m interested in everything
+- 👋 Hi, I’m Thorsten
 - 🌱 I’m currently learning python, torch, react, flask, ...
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
